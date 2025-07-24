@@ -1,5 +1,5 @@
 # 3D object distance estimation from the BEV representations
-This study introduces a robust perception framework for autonomous driving by fusing LiDAR and monocular camera data. It handles object detection, distance estimation, and multi-object tracking using BEV-based encoding, geometric triangulation, and Extended Kalman Filter, achieving state-of-the-art results on KITTI with high accuracy and efficiency.
+Project introduces a robust perception framework for autonomous driving by fusing LiDAR and monocular camera data. It handles object detection, distance estimation, and multi-object tracking using BEV-based encoding, geometric triangulation, and Extended Kalman Filter, achieving state-of-the-art results on KITTI with high accuracy and efficiency.
 This is the extension code with implemented Extended Kalman filter-based tracker for the [Super Fast and Accurate 3D Object Detection based on 3D LiDAR Point Clouds](https://github.com/maudzung/SFA3D)
 
 ## EKF implementation
